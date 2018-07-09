@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>顺丰自助平台</title>
+    <style>
+        #loading-screen {
+            width: 100%;
+            height: 100%;
+            left: 0;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            z-index: 100;
+            position: absolute;
+            background: #fff;
+            text-align: center;
+            color: #333;
+            font-size: 16px;
+            letter-spacing: 2px;
+            font-family: "PingFangSC-Semibold";
+        }
+
+        #loading-screen .img {
+            width: 23%;
+            margin: 40% auto 0;
+        }
+
+        #loading-screen .img img {
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="loading-screen">
+        <div class="img">
+            <img src="<%= require('./assets/logo.png') %>">
+        </div>
+        <p>顺丰速运</p>
+    </div>
+    <div id="app"></div>
+</body>
+</html>
+

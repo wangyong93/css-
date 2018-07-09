@@ -1,0 +1,226 @@
+[
+  {
+    "name": "文莱",
+    "countryCode": "BN"
+  },
+  {
+    "name": "新西兰",
+    "countryCode": "NZ"
+  },
+  {
+    "name": "中国大陆",
+    "countryCode": "CN"
+  },
+  {
+    "name": "中国澳门",
+    "countryCode": "MO"
+  },
+  {
+    "name": "加拿大",
+    "countryCode": "CA"
+  },
+  {
+    "name": "巴西",
+    "countryCode": "BR"
+  },
+  {
+    "name": "德国",
+    "countryCode": "DE"
+  },
+  {
+    "name": "法国",
+    "countryCode": "FR"
+  },
+  {
+    "name": "西班牙",
+    "countryCode": "ES"
+  },
+  {
+    "name": "意大利",
+    "countryCode": "IT"
+  },
+  {
+    "name": "英国",
+    "countryCode": "GB"
+  },
+  {
+    "name": "比利时",
+    "countryCode": "BE"
+  },
+  {
+    "name": "奥地利",
+    "countryCode": "AT"
+  },
+  {
+    "name": "爱尔兰",
+    "countryCode": "IE"
+  },
+  {
+    "name": "匈牙利",
+    "countryCode": "HU"
+  },
+  {
+    "name": "葡萄牙",
+    "countryCode": "PT"
+  },
+  {
+    "name": "荷兰",
+    "countryCode": "NL"
+  },
+  {
+    "name": "波兰",
+    "countryCode": "PL"
+  },
+  {
+    "name": "丹麦",
+    "countryCode": "DK"
+  },
+  {
+    "name": "捷克",
+    "countryCode": "CZ"
+  },
+  {
+    "name": "克罗地亚",
+    "countryCode": "HR"
+  },
+  {
+    "name": "瑞典",
+    "countryCode": "SE"
+  },
+  {
+    "name": "希腊",
+    "countryCode": "GR"
+  },
+  {
+    "name": "保加利亚",
+    "countryCode": "BR"
+  },
+  {
+    "name": "卢森堡",
+    "countryCode": "LU"
+  },
+  {
+    "name": "爱沙尼亚",
+    "countryCode": "EE"
+  },
+  {
+    "name": "芬兰",
+    "countryCode": "FI"
+  },
+  {
+    "name": "立陶宛",
+    "countryCode": "LT"
+  },
+  {
+    "name": "斯洛文尼亚",
+    "countryCode": "SI"
+  },
+  {
+    "name": "斯洛伐克",
+    "countryCode": "SK"
+  },
+  {
+    "name": "拉脱维亚",
+    "countryCode": "LV"
+  },
+  {
+    "name": "罗马尼亚",
+    "countryCode": "RO"
+  },
+  {
+    "name": "塞浦路斯",
+    "countryCode": "CY"
+  },
+  {
+    "name": "马耳他",
+    "countryCode": "MT"
+  },
+  {
+    "name": "中国香港",
+    "countryCode": "HK"
+  },
+  {
+    "name": "智利",
+    "countryCode": "CL"
+  },
+  {
+    "name": "中国台湾",
+    "countryCode": "TW"
+  },
+  {
+    "name": "新加坡",
+    "countryCode": "SG"
+  },
+  {
+    "name": "马来西亚",
+    "countryCode": "MY"
+  },
+  {
+    "name": "日本",
+    "countryCode": "JP"
+  },
+  {
+    "name": "韩国",
+    "countryCode": "KP"
+  },
+  {
+    "name": "美国",
+    "countryCode": "US"
+  },
+  {
+    "name": "泰国",
+    "countryCode": "TH"
+  },
+  {
+    "name": "越南",
+    "countryCode": "VN"
+  },
+  {
+    "name": "澳大利亚",
+    "countryCode": "AU"
+  },
+  {
+    "name": "柬埔寨",
+    "countryCode": "KU"
+  },
+  {
+    "name": "印度尼西亚",
+    "countryCode": "ID"
+  },
+  {
+    "name": "印度",
+    "countryCode": "IN"
+  },
+  {
+    "name": "外蒙古",
+    "countryCode": "MN"
+  },
+  {
+    "name": "墨西哥",
+    "countryCode": "MX"
+  },
+  {
+    "name": "缅甸",
+    "countryCode": "MM"
+  },
+  {
+    "name": "巴基斯坦",
+    "countryCode": "PK"
+  },
+  {
+    "name": "阿拉伯联合酋长国",
+    "countryCode": "AE"
+  },
+  {
+    "name": "孟加拉国",
+    "countryCode": "BD"
+  },
+  {
+    "name": "斯里兰卡",
+    "countryCode": "LK"
+  },
+  {
+    "name": "俄罗斯",
+    "countryCode": "RU"
+  }
+]

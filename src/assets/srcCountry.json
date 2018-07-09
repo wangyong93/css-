@@ -1,0 +1,54 @@
+[
+  {
+    "name": "中国澳门",
+    "countryCode": "MO"
+  },
+  {
+    "name": "韩国",
+    "countryCode": "KP"
+  },
+  {
+    "name": "中国香港",
+    "countryCode": "HK"
+  },
+  {
+    "name": "马来西亚",
+    "countryCode": "MY"
+  },
+  {
+    "name": "中国大陆",
+    "countryCode": "CN"
+  },
+  {
+    "name": "中国台湾",
+    "countryCode": "TW"
+  },
+  {
+    "name": "新加坡",
+    "countryCode": "SG"
+  },
+  {
+    "name": "日本",
+    "countryCode": "JP"
+  },
+  {
+    "name": "美国",
+    "countryCode": "US"
+  },
+  {
+    "name": "俄罗斯",
+    "countryCode": "RU"
+  },
+  {
+    "name": "外蒙古",
+    "countryCode": ""
+  },
+  {
+    "name": "泰国",
+    "countryCode": "TH"
+  },
+  {
+    "name": "越南",
+    "countryCode": "VN"
+  }
+]

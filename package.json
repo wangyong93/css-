@@ -1,0 +1,40 @@
+{
+  "name": "asr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server  --inline  --hot --env.dev",
+    "ci": "rimraf CSSH5 && webpack -p --progress --hide-modules --env.ci",
+    "build": "rimraf CSSH5 && webpack -p --progress --hide-modules --env.prod"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "js-md5": "^0.7.2",
+    "jsbarcode": "^3.8.0",
+    "jsonp": "^0.2.1",
+    "mint-ui": "^2.2.10",
+    "vconsole": "^3.1.0",
+    "vue": "^2.5.8",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "css-loader": "^0.28.7",
+    "file-loader": "^1.1.5",
+    "html-webpack-plugin": "^2.30.1",
+    "postcss-loader": "^2.0.8",
+    "style-loader": "^0.19.0",
+    "url-loader": "^0.6.2",
+    "vue-loader": "^13.5.0",
+    "vue-template-compiler": "^2.5.8",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
+  }
+}

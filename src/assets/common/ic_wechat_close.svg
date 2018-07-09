@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_wechat_close</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="转寄退回-飞机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-19.000000, -30.000000)">
+            <g id="Group-2" transform="translate(19.000000, 30.000000)">
+                <circle id="Oval-7" stroke="#ADADAD" stroke-width="2" cx="14.5" cy="14.5" r="13.5"></circle>
+                <path d="M16,14 L16,9 C16,8.44771525 15.5522847,8 15,8 C14.4477153,8 14,8.44771525 14,9 L14,9 L14,14 L9,14 C8.44771525,14 8,14.4477153 8,15 L8,15 L8,15 C8,15.5522847 8.44771525,16 9,16 L9,16 L14,16 L14,21 C14,21.5522847 14.4477153,22 15,22 C15.5522847,22 16,21.5522847 16,21 L16,16 L21,16 C21.5522847,16 22,15.5522847 22,15 C22,14.4477153 21.5522847,14 21,14 L16,14 Z" id="Combined-Shape" fill="#ADADAD" transform="translate(15.000000, 15.000000) rotate(-45.000000) translate(-15.000000, -15.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
